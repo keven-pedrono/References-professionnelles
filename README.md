@@ -2,7 +2,7 @@
 
 Trois sites WordPress réalisés chez **Creasit**, présentés pour illustrer mon travail d’**intégrateur front-end** : intégration d’interfaces à partir de maquettes, composants interactifs et adaptation à des contenus administrables.
 
-**Les maquettes ont été réalisées par l’équipe design de Creasit.** Mon rôle était simplement celui d’intégrateur front-end.
+**Les maquettes ont été réalisées par l’équipe design de Creasit.** Mon rôle était celui d’intégrateur front-end.
 
 > Ce dépôt présente seulement des références et des captures d’écran. Le code source appartient à l’agence et/ou aux clients et n’est pas publié ici.
 
@@ -109,4 +109,4 @@ _Carrousel « À vos agendas » en vue desktop large : visuels, dates et titres 
 
 Les captures ont été réalisées sur les sites publics le **13 octobre 2026**. Vous pouvez cliquer sur les images pour les afficher en grand.
 
-Les captures montrent l’état des sites à cette date, les contenus et interfaces ont peut-être évolués depuis.
+Les captures montrent l’état des sites à cette date, les contenus et interfaces ont peut-être évolué depuis.
